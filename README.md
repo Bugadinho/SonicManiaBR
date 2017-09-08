@@ -6,11 +6,11 @@ Projeto com objetivo de traduzir o jogo para Portugues.
 
 Beta 3
 ```
-Give examples
+https://github.com/BugadinhoGamers/SonicManiaBR1/releases/tag/beta3
 ```
 Beta 2
 ```
-Give examples
+http://www.mediafire.com/file/t9m9eo7dw11a3zr/SonicManiaBRbeta2.7z
 ```
 
 ## Requesitos
@@ -23,12 +23,12 @@ Give examples
 
 ## Autores
 
-### BugadinhoGamers  
-### Altieres Lima  
+### [BugadinhoGamers](https://steamcommunity.com/id/bugadinh0_gam3ers/)
+### [Altieres Lima](http://steamcommunity.com/profiles/76561198191648943/)
 
 ## Criado com
 
-[Paint XP](hhttp://www.mspaintxp.com/)
+[Paint XP](http://www.mspaintxp.com/)
 [Paint.NET](https://www.getpaint.net/)
 [rsdkv5_extract](https://github.com/koolkdev/rsdkv5_extract)
 
