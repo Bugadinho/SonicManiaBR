@@ -1,13 +1,9 @@
 ## Builds
 
-Final 1.0.2
-
-[Baixar!](https://github.com/BugadinhoGamers/SonicManiaBR1/releases/download/release1.0.2/SonicManiaBR_Final_v1.0.2.7z)
+[Final 1.0.2](https://github.com/BugadinhoGamers/SonicManiaBR1/releases/download/release1.0.2/SonicManiaBR_Final_v1.0.2.7z)
 
 
-Beta 3
-
-[Baixar!](https://github.com/BugadinhoGamers/SonicManiaBR1/releases/download/beta3/SonicManiaBR_beta3.7z)
+[Beta 3](https://github.com/BugadinhoGamers/SonicManiaBR1/releases/download/beta3/SonicManiaBR_beta3.7z)
 
 
 ## Requesitos
